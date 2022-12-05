@@ -258,7 +258,7 @@ section {
 }        color: #E31C25; }
 
 #home {
-  background: url(..images/banner/banner-2.jpg) no-repeat center;
+  background: url(../images/background/Matrix - 47802.mp4) loop center;
   background-size: cover; }
   #home::before {
     position: absolute;
